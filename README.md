@@ -1,2 +1,2 @@
 # github-demo
-GitHub tutorial
+This repository is to learn how to use GitHub.
